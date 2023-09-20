@@ -1,0 +1,9 @@
+.env
+node_modules
+layer.geojson
+layer_*.geojson
+layer.gbf
+layer_*.gbf
+layer.fgb
+layer_*.fgb
+bun.lockb
